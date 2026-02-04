@@ -1,7 +1,7 @@
 
 {
-  "name": "PM-MOTO",
-  "short_name": "PM-MOTO",
+  "name": "PM-Moto",
+  "short_name": "PM-Moto",
   "description": "Consulta de infrações de motocicletas para a Polícia Militar do Estado de São Paulo",
   "start_url": "/",
   "display": "standalone",
