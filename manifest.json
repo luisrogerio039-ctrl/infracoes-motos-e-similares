@@ -2,7 +2,7 @@
 {
   "name": "INFRA_MOTOS",
   "short_name": "INFRA_MOTOS",
-  "description": "Consulta tática de infrações para a Polícia Militar do Estado de São Paulo",
+  "description": "Consulta de infrações de motocicletas para a Polícia Militar do Estado de São Paulo",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",
