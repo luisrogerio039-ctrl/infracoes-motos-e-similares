@@ -51,7 +51,7 @@ const App: React.FC = () => {
             {/* Data de Atualização Visual */}
             <div className="flex justify-end pr-2 -mb-2">
               <span className="text-[9px] font-black text-white uppercase tracking-[0.2em] drop-shadow-sm">
-                Atualizado em: 02/02/2026
+                Atualizado em: 05/05/2026
               </span>
             </div>
 
