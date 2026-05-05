@@ -12,7 +12,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
   },
   {
-    descricao: "Pneu ou pneus desgastados atingiram a marca límitrofe “TWI”, exceto estepe",
+    descricao: "Pneu ou pneus desgastados atingiram a marca limítrofe “TWI”, exceto estepe",
     codigo: "672-61",
     artigo: "Art. 230, XVIII",
     tipificacao: "Mau estado de conservação comprometendo a segurança",
@@ -93,7 +93,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias /// Conforme ITT 14 do CPTran 'item 2.1' (sugiro a leitura)"
   },
   {
-    descricao: "Escapamento com ruído irregular, oriundo de furos por corrosão ou intensionalmente, miolo adulterado, quebrado e etc…",
+    descricao: "Escapamento com ruído irregular, oriundo de furos por corrosão ou intencionalmente, miolo adulterado, quebrado e etc…",
     codigo: "665-32",
     artigo: "Art. 230, XI",
     tipificacao: "Silenciador de motor de explosão defeituoso, deficiente ou inoperante",
@@ -102,7 +102,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias /// Conforme ITT 14 do CPTran 'item 4.2.2' (sugiro a leitura)"
   },
   {
-    descricao: "Todo o sistema de iluminação dianteiro ou traseiro estiverem com defeito/lâmpadas queimadas",
+    descricao: "Todo o sistema de iluminação dianteiro ou traseiro estiver com defeito/lâmpadas queimadas",
     codigo: "663-72",
     artigo: "Art. 230, IX",
     tipificacao: "Equipamento obrigatório inoperante",
@@ -138,7 +138,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
   },
   {
-    descricao: "Lanterna (luz) da placa “encoberto” (ex. pela placa), todos os anos.",
+    descricao: "Lanterna (luz) da placa “encoberta” (ex. pela placa), todos os anos.",
     codigo: "663-72",
     artigo: "Art. 230, IX",
     tipificacao: "Equipamento obrigatório inoperante",
@@ -153,10 +153,10 @@ export const DADOS_INFRACAO: Infracao[] = [
     tipificacao: "Dispositivo antirradar",
     medida: "Remoção do veículo",
     gravidade: Gravidade.GRAVISSIMO,
-    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irrelularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.5.6' (sugiro a leitura)"
+    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irregularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.5.6' (sugiro a leitura)"
   },
   {
-    descricao: "Calçado tipo chinelo havainas, sapato feminino plataforma, calçado feminino salto alto e etc…",
+    descricao: "Calçado tipo chinelo Havaianas, sapato feminino plataforma, calçado feminino salto alto e etc…",
     codigo: "734-00",
     artigo: "Art. 252, IV",
     tipificacao: "Calçado que compromete a utilização dos pedais",
@@ -171,7 +171,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     tipificacao: "Placa sem legibilidade e visibilidade",
     medida: "Remoção do veículo",
     gravidade: Gravidade.GRAVISSIMO,
-    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irrelularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.5.6' (sugiro a leitura)"
+    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irregularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.5.6' (sugiro a leitura)"
   },
   {
     descricao: "Motocicleta sem placa",
@@ -180,7 +180,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     tipificacao: "Sem placa de identificação",
     medida: "Remoção do veículo",
     gravidade: Gravidade.GRAVISSIMO,
-    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irrelularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.2.1 e 2.5.6' (sugiro a leitura)"
+    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irregularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.2.1 e 2.5.6' (sugiro a leitura)"
   },
   {
     descricao: "Sem espelhos retrovisores",
@@ -201,7 +201,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
   },
   {
-    descricao: "Espelhos retrovisores originais (em tese) não direcionados para traseira do veiculo",
+    descricao: "Espelhos retrovisores originais (em tese) não direcionados para traseira do veículo",
     codigo: "663-72",
     artigo: "Art. 230, IX",
     tipificacao: "Equipamento obrigatório inoperante",
@@ -210,7 +210,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
   },
   {
-    descricao: "Espelhos retrovisores originais (em tese) não cumprem requisitos da resolução, como as dimensões, motocicletas fabricadas a apartir de 2019",
+    descricao: "Espelhos retrovisores originais (em tese) não cumprem requisitos da resolução, como as dimensões, motocicletas fabricadas a partir de 2019",
     codigo: "664-50",
     artigo: "Art. 230, X",
     tipificacao: "Equipamento obrigatório em desacordo",
@@ -219,7 +219,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
   },
   {
-    descricao: "Espelhos retrovisores não originais que não cumprem requisitos da resolução (ex. pequenos e com suporte rebativel ou não), independente da posição que se encontram.",
+    descricao: "Espelhos retrovisores não originais que não cumprem requisitos da resolução (ex. pequenos e com suporte rebatível ou não), independente da posição que se encontram.",
     codigo: "661-02",
     artigo: "Art. 230, VII",
     tipificacao: "Alterar características do veículo",
@@ -282,19 +282,19 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
   },
   {
-    descricao: "Condutor com capacete de segurança com viseira ou óculos de proteção em descacordo (ex. viseira levantada)",
+    descricao: "Condutor com capacete de segurança com viseira ou óculos de proteção em desacordo (ex. viseira levantada)",
     codigo: "768-42",
     artigo: "Art. 244, X",
-    tipificacao: "Condutor com capacete de segurança com viseira ou óculos de proteção em descacordo",
+    tipificacao: "Condutor com capacete de segurança com viseira ou óculos de proteção em desacordo",
     medida: "Retenção do veículo",
     gravidade: Gravidade.MEDIA,
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
   },
   {
-    descricao: "Transportar passageiro com capacete de segurança com viseira ou óculos de proteção em descacordo (ex. viseira levantada)",
+    descricao: "Transportar passageiro com capacete de segurança com viseira ou óculos de proteção em desacordo (ex. viseira levantada)",
     codigo: "771-42",
     artigo: "Art. 244, XI",
-    tipificacao: "Passageiro com capacete de segurança com viseira ou óculos de proteção em descacordo",
+    tipificacao: "Passageiro com capacete de segurança com viseira ou óculos de proteção em desacordo",
     medida: "Retenção do veículo",
     gravidade: Gravidade.MEDIA,
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
@@ -336,7 +336,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
     },
     {
-    descricao: "Placa com moldura refletiva, luminosa ou cobrinado as bordas de modo a interferir na leitura dos caractere",
+    descricao: "Placa com moldura refletiva, luminosa ou cobrindo as bordas de modo a interferir na leitura dos caracteres",
     codigo: "640-80",
     artigo: "Art. 221",
     tipificacao: "Placa de identificação em desacordo",
