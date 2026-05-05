@@ -171,7 +171,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     tipificacao: "Placa sem legibilidade e visibilidade",
     medida: "Remoção do veículo",
     gravidade: Gravidade.GRAVISSIMO,
-    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Conforme ITT 7 do CPTran 'item 2.5.6' (sugiro a leitura)"
+    observacoes: "Irregularidade sanada (art. 271, §9º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 271, §9º-A, do CTB), Autuação + Bloqueio de 15 dias /// Diante do caso concreto e a fim de se coroar a Boa Ordem Administrativa, é devida a REMOÇÃO ao pátio, ainda que o infrator, ao ser fiscalizado, Sane a irrelularidade no veículo /// Conforme ITT 7 do CPTran 'item 2.5.6' (sugiro a leitura)"
   },
   {
     descricao: "Motocicleta sem placa",
