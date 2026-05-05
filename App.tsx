@@ -1,4 +1,4 @@
-
+const DATA_ATUALIZACAO = "05/05/2026";
 import React, { useState, useMemo, useCallback } from 'react';
 import Header from './components/Header';
 import InfracaoCard from './components/InfracaoCard';
@@ -50,9 +50,9 @@ const App: React.FC = () => {
             
             {/* Data de Atualização Visual */}
             <div className="flex justify-end pr-2 -mb-2">
-              <span className="text-[9px] font-black text-white uppercase tracking-[0.2em] drop-shadow-sm">
-               Atualizado em: {new Date().toLocaleDateString('pt-BR')}
-              </span>
+             <span className="text-[9px] font-black text-white uppercase tracking-[0.2em] drop-shadow-sm">
+  Atualizado em: {DATA_ATUALIZACAO}
+</span>
             </div>
 
             {/* Input de Busca */}
