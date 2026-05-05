@@ -343,5 +343,6 @@ export const DADOS_INFRACAO: Infracao[] = [
     medida: "Retenção do veículo",
     gravidade: Gravidade.MEDIA,
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
+    }
     ];
 
