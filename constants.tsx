@@ -285,7 +285,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     descricao: "Condutor com capacete de segurança com viseira ou óculos de proteção em descacordo (ex. viseira levantada)",
     codigo: "768-42",
     artigo: "Art. 244, X",
-    tipificacao: "Condutor com capacete de segurança with viseira ou óculos de proteção em descacordo",
+    tipificacao: "Condutor com capacete de segurança com viseira ou óculos de proteção em descacordo",
     medida: "Retenção do veículo",
     gravidade: Gravidade.MEDIA,
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
@@ -294,7 +294,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     descricao: "Transportar passageiro com capacete de segurança com viseira ou óculos de proteção em descacordo (ex. viseira levantada)",
     codigo: "771-42",
     artigo: "Art. 244, XI",
-    tipificacao: "Passageiro com capacete de segurança with viseira ou óculos de proteção em descacordo",
+    tipificacao: "Passageiro com capacete de segurança com viseira ou óculos de proteção em descacordo",
     medida: "Retenção do veículo",
     gravidade: Gravidade.MEDIA,
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
@@ -316,5 +316,32 @@ export const DADOS_INFRACAO: Infracao[] = [
     medida: "Retenção do veículo",
     gravidade: Gravidade.MEDIA,
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
-  }
-];
+  },
+  {
+    descricao: "Placa afixada na lateral da motocicleta, fora do habitáculo original",
+    codigo: "640-80",
+    artigo: "Art. 221",
+    tipificacao: "Placa de identificação em desacordo",
+    medida: "Retenção do veículo",
+    gravidade: Gravidade.MEDIA,
+    observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
+  },
+  {
+    descricao: "Transportar criança com menos de 10 anos de idade como passageiro excedente",
+    codigo: "707-21",
+    artigo: "Art. 244, V",
+    tipificacao: "Conduzir motocicleta, motoneta ou ciclomotor transportando criança menor de 10 anos de idade",
+    medida: "Retenção do veículo",
+    gravidade: Gravidade.GRAVISSIMO,
+    observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata"
+    },
+    {
+    descricao: "Placa com moldura refletiva, luminosa ou cobrinado as bordas de modo a interferir na leitura dos caractere",
+    codigo: "640-80",
+    artigo: "Art. 221",
+    tipificacao: "Placa de identificação em desacordo",
+    medida: "Retenção do veículo",
+    gravidade: Gravidade.MEDIA,
+    observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
+    ];
+
