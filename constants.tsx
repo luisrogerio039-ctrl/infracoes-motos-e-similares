@@ -327,7 +327,7 @@ export const DADOS_INFRACAO: Infracao[] = [
     observacoes: "Irregularidade sanada (art. 270, §1º, do CTB), Autuação e liberação imediata /// Irregularidade não sanada, porém oferece condições de segurança para circulação (art. 270, §2º, do CTB), Autuação + Bloqueio de 30 dias"
   },
   {
-    descricao: "Transportar criança com menos de 10 anos de idade como passageiro excedente",
+    descricao: "Transportar criança com menos de 10 anos de idade como passageiro excedente em motocileta (exemplo:entre dois adultos)",
     codigo: "707-21",
     artigo: "Art. 244, V",
     tipificacao: "Conduzir motocicleta, motoneta ou ciclomotor transportando criança menor de 10 anos de idade",
