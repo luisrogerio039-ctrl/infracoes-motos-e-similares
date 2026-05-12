@@ -1,4 +1,4 @@
-const DATA_ATUALIZACAO = "05/05/2026";
+const DATA_ATUALIZACAO = "12/05/2026";
 import React, { useState, useMemo, useCallback } from 'react';
 import Header from './components/Header';
 import InfracaoCard from './components/InfracaoCard';
